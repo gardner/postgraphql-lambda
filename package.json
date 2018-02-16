@@ -1,6 +1,6 @@
 {
   "name": "postgraphql-lambda",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "description": "postgraphql aws lambda",
   "dependencies": {
-    "postgraphql": "^3.5.6",
+    "postgraphql": "^4.0.0-alpha2.30",
     "raven": "^2.2.1"
   }
 }
